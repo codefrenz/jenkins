@@ -17,7 +17,7 @@ pipeline {
             steps {
                 // Print a message or run actual build commands here
                 sh 'echo "Building application..."'
-                // Replace the line above with actual build commands, like mvn clean install for Maven
+                // Replace the line above with actual build command like mvn clean install for Maven
             }
         }
 
